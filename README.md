@@ -76,6 +76,7 @@ Hello hexlet from Izhevsk
 Hello Hexlet from Astana  
 Hello from Vladivostok!  
 Hello from Krasnoyarsk!
+Hello from Zheleznodorozhnyy!
 
 olleH
 It`s my first editing  
